@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel Gómez</h1>
 <h3 align="center">A student mostly figuring it out — sometimes getting it right.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelgp-13" alt="miguelgp-13" /></a> </p>
-
 - 🔭 I’m currently working on [Creating a RAG (full-stack)](https://github.com/MiguelGP-13/Projects-RAG)
 
 - 🌱 I’m currently learning **Machine learning and Data science**
