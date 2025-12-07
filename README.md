@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Gómez</h1>
 <h3 align="center">A student mostly figuring it out — sometimes getting it right.</h3>
 
-- 🔭 My latest projecty is [Detection and Localization of Skin Lesion Anomalies](https://github.com/MiguelGP-13/PCD-Proyect)
+- 🔭 My latest projecty is [Detection and Localization of Skin Lesion Anomalies](https://github.com/MiguelGP-13/PCD-DataScienceProyect)
 
 - 🌱 I’m currently learning **Machine learning and Data science**
 
