@@ -5,7 +5,7 @@
 - 🌱 Some other projects I worked on are:
     - 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <table>
   <tr>
     <td><a href="https://linkedin.com/in/miguel-gomez-prieto" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
