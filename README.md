@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Miguel Gómez</h1>
-<h3 align="center">A student mostly figuring it out, sometimes getting it right.</h3>
+<h1 align="center">Miguel Gómez Prieto</h1>
+<h3 align="center"></h3>
 
-- 🔭 My latest project is [Detection and Localization of Skin Lesion Anomalies](https://github.com/MiguelGP-13/PCD-DataScienceProyect)
-- 🌱 I’m currently finishing my studies in **Machine Learning and Data Science**, working on my undergraduate thesis: [LLMs for Minority Languages](https://github.com/MiguelGP-13/TFG)
-- 📫 Reach me at **miguel.gprieto@alumnos.upm.es**
+- 🔭 My latest project is my undergraduate thesis: [LLMs for Minority Languages](https://github.com/MiguelGP-13/TFG)
+- 🌱 Some other projects I worked on are:
+    - 
 
 <h3 align="left">Connect with me:</h3>
 <table>
